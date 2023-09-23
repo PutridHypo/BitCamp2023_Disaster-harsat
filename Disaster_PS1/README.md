@@ -7,8 +7,3 @@
 
    2. **Clues:**
       - Think about creating an application that guarantees aid goes to the right people during a crisis. This system should keep data safe, track aid in real-time, and make sure aid is used efficiently.
-
-
-
-
-if you seeing this then you are ...
